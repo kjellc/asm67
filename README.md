@@ -4,7 +4,7 @@ HP woodstock assembler (For HP67/97 vintage calculator firmware)
 ## Description
 
 This tool is used to assemble firmware code for the vintage calculators HP67
-and HP97 form the late 1970s.
+and HP97 from the late 1970s.
 
 The original code (ass97.py, v1.7.3, 2011) was written by Oliver De Smet, and can be
 found [here](https://www.hpcalc.org/details/9548).
@@ -178,7 +178,7 @@ Examples:
 #if 0
   // this is skipped
 #elif 1
-  // this in parsed
+  // this is parsed
 #endif
 
 #ifndef FOO
